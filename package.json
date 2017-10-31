@@ -1,0 +1,22 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base58": "^1.0.1",
+    "dotenv": "^4.0.0",
+    "micro": "^9.0.0",
+    "mongoose": "^4.12.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
